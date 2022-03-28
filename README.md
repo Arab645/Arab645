@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arab645
-- 👀 I’m interested in porog
+- 👀 I’m interested in prog
 - 🌱 I’m currently learning Python and cybersystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
